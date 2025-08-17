@@ -1,4 +1,4 @@
-const API_KEY = "API_KEY"
+const API_KEY = "4287ad07"
 export const serachMovies = async ({ search }) => {
  if (search === '') return null
  try {
